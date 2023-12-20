@@ -1,0 +1,32 @@
+
+.slick-slide {
+	padding: 10px;
+}
+
+.slick-slide img {
+	max-height: 200px;
+}
+
+button.slick-prev {
+	left: 15px;
+}
+
+button.slick-next {
+	right: 15px;
+}
+
+button.slick-arrow:before {
+	color: gray !important;
+	font-size: 2.5rem;
+    opacity: 1;
+}
+
+button.slick-prev:before {
+	content: "\f053";
+    font-family: fontawesome;
+}
+
+button.slick-next:before {
+	content: "\f054";
+    font-family: fontawesome;
+}
