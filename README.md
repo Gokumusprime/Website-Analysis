@@ -1,4 +1,4 @@
-# website
+# Website Scrape and Analysis
 
 This project uses vue.js to to analyze any url supplied and return all images from that page, most common words used on that page and a word count.  A proxy is used due to CORS issues but keep in mind that some websites have their CORS policy setup to outright block this so it won't always work.  This just demonstrates scraping data from an external site.
 
