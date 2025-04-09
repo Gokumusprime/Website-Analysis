@@ -1,6 +1,6 @@
 # website
 
-This template should help get you started developing with Vue 3 in Vite.
+This project uses vue.js to to analyze any url supplied and return all images from that page, most common words used on that page and a word count.  A proxy is used due to CORS issues but keep in mind that some websites have their CORS policy setup to outright block this so it won't always work.  This just demonstrates scraping data from an external site.
 
 ## Recommended IDE Setup
 
